@@ -5,3 +5,6 @@ The website is built using HTML, CSS, along with the Bootstrap framework for the
 
 ## Screenshots
 Coming soon.
+
+## Get Started
+To access the InfoHunt eQuiz website, [click me](https://tmthyadms.github.io/infohunt-equiz.github.io/).
