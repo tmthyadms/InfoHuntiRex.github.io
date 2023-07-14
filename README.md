@@ -10,4 +10,4 @@ Coming soon.
 ## Get Started
 To access the InfoHunt eQuiz website, [click me](https://tmthyadms.github.io/infohunt-equiz.github.io/).
 
- 📣 **Attention**: The website has undergone a revamp to enhance user experience and provide an updated interface.
+ **Attention**: The website has undergone a revamp to enhance user experience and provide an updated interface.
