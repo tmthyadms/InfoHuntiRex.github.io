@@ -3,8 +3,11 @@ Infohunt eQuiz is a simple website designed to facilitate the second checkpoint 
 
 The website is built using HTML, CSS, along with the Bootstrap framework for the front-end design, while JavaScript is used for the back-end logic to validate the answers.
 
+
 ## Screenshots
 Coming soon.
 
 ## Get Started
 To access the InfoHunt eQuiz website, [click me](https://tmthyadms.github.io/infohunt-equiz.github.io/).
+
+ 📣 **Attention**: The website has undergone a revamp to enhance user experience and provide an updated interface.
